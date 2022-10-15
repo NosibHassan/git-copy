@@ -1,0 +1,12 @@
+git remote add origin https://github.com/NosibHassan/King.git
+git branch -M main
+git push -u origin main
+.gitignorehttps://github.com/NosibHassan/King.gitecho "# King" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/NosibHassan/King.git
+git push -u origin maingit remote add origin https://github.com/NosibHassan/King.git
+git branch -M main
+git push -u origin main
